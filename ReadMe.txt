@@ -6,18 +6,20 @@
 3. And paste it on your local server directory.
 4. Create new database.
 5. Import the sql file form DB folder(library_management_system.sql).
-6. Go to your web browser and type address bar...
-	1. For admin panel: localhost/library_management_system/admin	
+6. Go to your browser and write one of the links below that you want access it first..
+	1. URL for admin panel: localhost/library_management_system/admin	
 	Give Admin User Name/Email and Password :- 
 					          username:admin
 				                  email:admin@admin.com
 				                  password:admin
 	
-	2. For student panel: localhost/library_management_system/student
+	2. URL for student panel: localhost/library_management_system/student
 	Give Student User Name/Email and Password :-
 						    username:sanjoy123
 						    email:sanjoy@mail.com
 						    password: 12345678
+						    
+	3. URL for new student registration: http://localhost/library_management_system/student/registration.php
 
 		
 		*****Developed By Sanjoy Kumar Saha*****
