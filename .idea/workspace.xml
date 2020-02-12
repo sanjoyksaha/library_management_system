@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f91bc32-2780-488d-8209-7bbe7e4cdd08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1WR7QllsBTUXJbks2bmFsqjOXbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blood_bank_management" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\laragon\www\library_management_system\librarian" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f91bc32-2780-488d-8209-7bbe7e4cdd08" name="Default Changelist" comment="" />
+      <created>1579100540233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579100540233</updated>
+      <workItem from="1579100544313" duration="15196000" />
+      <workItem from="1579151116846" duration="12974000" />
+      <workItem from="1579172207050" duration="276000" />
+      <workItem from="1580114871256" duration="247000" />
+      <workItem from="1580144859093" duration="8696000" />
+      <workItem from="1580186326127" duration="235000" />
+      <workItem from="1580313622434" duration="13713000" />
+      <workItem from="1580367066600" duration="4571000" />
+      <workItem from="1580379993000" duration="7431000" />
+      <workItem from="1580405068568" duration="1670000" />
+      <workItem from="1580447010232" duration="1190000" />
+      <workItem from="1580490506592" duration="10108000" />
+      <workItem from="1580531768292" duration="18617000" />
+      <workItem from="1580573862612" duration="10958000" />
+      <workItem from="1580619632665" duration="5202000" />
+      <workItem from="1580639404983" duration="6155000" />
+      <workItem from="1580662593377" duration="11166000" />
+      <workItem from="1580704677646" duration="4384000" />
+      <workItem from="1580745651062" duration="9895000" />
+      <workItem from="1580790964233" duration="5823000" />
+      <workItem from="1580798683695" duration="6389000" />
+      <workItem from="1580828627644" duration="3298000" />
+      <workItem from="1580884760706" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#SQL_Dialects" timestamp="1579108728028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1579108728028" />
+    <state x="275" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579109068228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579109068228" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580884804824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580884804824" />
+    <state x="535" y="284" key="NewPhpFileDialog" timestamp="1580749860086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="535" y="284" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580749860086" />
+    <state x="199" y="7" key="SettingsEditor" timestamp="1579152503910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="199" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579152503910" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580145038471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1580145038471" />
+    <state x="358" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580884768476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580884768476" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580673290486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580673290486" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580641482503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580641482503" />
+  </component>
+</project>

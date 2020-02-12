@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    width: 600px;
+    margin: 100px auto auto;
+}
+.buttons{
+    width: 600px;
+    margin: 50px auto auto 400px;
+}
