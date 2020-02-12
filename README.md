@@ -1,4 +1,4 @@
-# library_management_system
-Complete Library Management System using PHP
+# Library Managment System
+####Complete Library Management System using PHP
 
-Complete Installation Guide on ReadMe.text
+Complete Installation Guide on ReadMe.text.
